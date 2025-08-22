@@ -91,7 +91,7 @@ news_top_n: 25
 
 ---
 
-## 🧪 Project Structure (suggested)
+## 🧪 Project Structure
 
 ```
 .
